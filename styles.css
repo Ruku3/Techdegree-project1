@@ -184,21 +184,6 @@ a.social:hover {
  Page: Contact
 *************************/
 
-.contact {
-  margin: 30px;
-  padding: 20px 40px 40px;
-  max-width: 500px;
-  text-align: left;
-  background: #fff;
-  border-bottom: 4px solid #ccc;
-  border-radius: 6px;
-  transition: all .5s;
-}
-.contact:hover {
-  border-color: #f6a801;
-}
-
-
 .contact-info {
 	list-style: none;
 	padding: 0;
